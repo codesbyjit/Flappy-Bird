@@ -1,5 +1,4 @@
-﻿/* 
-    ------------------- Code Monkey -------------------
+﻿/* ------------------- Code Monkey -------------------
 
     Thank you for downloading the Code Monkey Utilities
     I hope you find them useful in your projects
@@ -171,3 +170,4 @@ namespace CodeMonkey {
     }
 
 }
+
